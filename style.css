@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    background-color: #f0f5ff;
+}
+.my{
+    width: 700px;
+    height: 40px;
+    font-size: 20px;
+    padding: 10px;
+    background-color: rgb(239, 240, 244);
+    color: 1px solid black;
+    border: 0;
+}
+.div1{
+   justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    height: 90px;
+    
+
+}
+
+.div2{
+    display: flex;
+    align-items: center;
+}
+.div3{
+    background-color: white;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 150px;
+    display: flex;
+}
+.div4{
+    text-align: center;
+}
