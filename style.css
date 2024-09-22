@@ -15,7 +15,7 @@ html{
     color: 1px solid black;
     border: 0;
 }
-.div1{
+.first{
    justify-content: space-evenly;
     display: flex;
     align-items: center;
@@ -25,17 +25,17 @@ html{
 
 }
 
-.div2{
+.second{
     display: flex;
     align-items: center;
 }
-.div3{
+.third{
     background-color: white;
     justify-content: space-evenly;
     align-items: center;
     height: 150px;
     display: flex;
 }
-.div4{
+.fourth{
     text-align: center;
 }
